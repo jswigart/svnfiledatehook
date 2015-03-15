@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buildfilemoddb", "buildfilemoddb.vcxproj", "{AFA4CF0B-0646-453F-89F2-621B8EBF3A58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buildfilemoddb", "setfilemodsfromdb.vcxproj", "{D1EAF6B4-5816-4047-9179-FF2466B054C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA4CF0B-0646-453F-89F2-621B8EBF3A58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFA4CF0B-0646-453F-89F2-621B8EBF3A58}.Debug|Win32.Build.0 = Debug|Win32
+		{AFA4CF0B-0646-453F-89F2-621B8EBF3A58}.Release|Win32.ActiveCfg = Release|Win32
+		{AFA4CF0B-0646-453F-89F2-621B8EBF3A58}.Release|Win32.Build.0 = Release|Win32
+		{D1EAF6B4-5816-4047-9179-FF2466B054C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1EAF6B4-5816-4047-9179-FF2466B054C8}.Debug|Win32.Build.0 = Debug|Win32
+		{D1EAF6B4-5816-4047-9179-FF2466B054C8}.Release|Win32.ActiveCfg = Release|Win32
+		{D1EAF6B4-5816-4047-9179-FF2466B054C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
