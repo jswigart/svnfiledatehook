@@ -1,0 +1,1 @@
+SVN doesn't support synchronization of file modification times, which can be a pain for some tools that ideally use file modification time to update caches or detect the need to run more complex processing.
